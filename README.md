@@ -1,0 +1,2 @@
+# pbkdf2_sha256_decoder
+Automated Tool for decoding pbkdf2 sha256 hashes  without user encoding decoding processes just need to save the hash in a file give the flie path (better save it in same folder where tool is saved)
